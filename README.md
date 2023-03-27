@@ -60,7 +60,7 @@ https://console.cloud.google.com/ Та створюємо новий проек�
 
 Далі створюємо у ції папці файли:
 sheet_id.txt (у якій буде міститися айді таблиці
-https://docs.google.com/spreadsheets/d/    1ZKJwqgzrZ6Wux0tbwW5e0v7m6g1o0KiFjqV0FPP2WtU   /edit#gid=458659454)
+https://docs.google.com/spreadsheets/d/   після d/   1ZKJwqgzrZ6Wux0tbwW5e0v7m6g1o0KiFjqV0FPP2WtU  до /edit#gid=458659454)
 
 У credentials.txt
 ![image](https://user-images.githubusercontent.com/92741398/227974094-c6afa03a-aa31-4472-aa81-59d63d1ba193.png)
